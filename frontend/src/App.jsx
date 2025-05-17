@@ -84,7 +84,7 @@ Output: "olleh"`,
                 {
                     headers: {
                         'Content-Type': 'application/json',
-                        'X-RapidAPI-Key': 'e78e541612mshec76f9595b8d21cp15fd73jsnfc1f1e9254e7',
+                        'X-RapidAPI-Key': 'YOUR KEY HERE',
                         'X-RapidAPI-Host': 'judge0-ce.p.rapidapi.com',
                     },
                 }
@@ -121,7 +121,7 @@ Output: "olleh"`,
                     {
                         headers: {
                             'Content-Type': 'application/json',
-                            'X-RapidAPI-Key': 'e78e541612mshec76f9595b8d21cp15fd73jsnfc1f1e9254e7',
+                            'X-RapidAPI-Key': 'YOUR KEY HERE',
                             'X-RapidAPI-Host': 'judge0-ce.p.rapidapi.com',
                         },
                     }
